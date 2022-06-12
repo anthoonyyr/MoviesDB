@@ -1,3 +1,3 @@
 This is our Scientific Programming Project about Movies
 
-Anthony FONTAINE & MAxime LEPOITTEVIN
+Anthony FONTAINE & Maxime LEPOITTEVIN
